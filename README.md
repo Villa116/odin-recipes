@@ -1,6 +1,6 @@
 # odin-recipes
 
-A simple website about recipes to practice html links and images and git basics.
+A simple website about recipes to practice html, css git basics.
 
 
 Photo by <a href="https://unsplash.com/@meguminachev?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Megumi Nachev</a> on <a href="https://unsplash.com/photos/cooked-food-on-bowl-bBCRrplhhZ4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
