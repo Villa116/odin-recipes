@@ -21,6 +21,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
     color: #000;
+    line-height: 1.5em;
 }
 
 h1 {
@@ -48,4 +49,22 @@ a {
 a:hover {
     text-decoration: underline;
     color: #f92222;
+}
+
+img {
+    display: block;
+    margin: 50px auto;
+}
+
+h2, p, ul, ol {
+    text-align: center;
+}
+
+h2 {
+    margin: 30px 0 20px 0;
+    color: #463de6;
+}
+
+ol {
+    margin-bottom: 30px;
 }
